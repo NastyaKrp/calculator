@@ -2,6 +2,8 @@
 
 [Task](https://docs.google.com/document/d/1zpXXeSae-BlcxPKgw3DhxZA92cspVailrPYoaXSYrW8/edit?tab=t.0)
 
+https://calculator-fe9d8.web.app/
+
 How to run the app:
 
 1) Install all the dependencies specified in the package.json file. This can be done using the following command in the terminal:
