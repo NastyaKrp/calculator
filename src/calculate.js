@@ -5,7 +5,7 @@ import {
   divide,
   percentage,
   changeSign,
-} from 'arithmetic.js'
+} from './arithmetic.js'
 
 const themeToggle = document.getElementById('themeToggle')
 
